@@ -1,0 +1,2 @@
+from .word_swap_masked_lm import WordSwapMaskedLM
+from .bert_attack_li_2020 import BERTAttackLi2020
